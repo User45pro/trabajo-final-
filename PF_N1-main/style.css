@@ -1,0 +1,91 @@
+h1 {
+ 
+    text-align: center;
+    padding-right: 50px;
+}
+
+
+body{
+    font-family: 'Poppins', sans-serif; /* Fuente principal */
+
+  }
+button {
+  font-family: 'Poppins', sans-serif;
+}
+nav{
+    
+    text-align: center;
+  
+   
+}
+.container hr {
+        width: 500px; /* Ancho fijo */
+        margin: 0 auto; /* Centra la línea horizontalmente */
+        border: none; /* Quita el borde predeterminado */
+        border-top: 1px solid gray; /* Crea un borde superior de 0.5px */
+      }
+
+/* ul{
+    background-color: aqua;
+    list-style: none;
+    
+} */
+
+nav button {
+    
+    text-align: center;
+    margin: 9px 60px;
+    border: none;
+    outline: none;
+    padding: auto;
+    cursor: pointer;
+    background-color: transparent;
+}
+.boton{
+
+    text-align: center;
+    margin-top: 10px;
+}
+.boton button{
+    height: 43px;   
+    height: 43px;   
+    width: 91px;
+    border-radius: 10px;
+    margin-left: 15px;
+}
+.boton input[type="text"] {
+    
+
+    height: 40px;
+    border-radius: 10px;
+    width: 350px; /* Esto establecerá un ancho fijo de 500 píxeles para el input */
+}
+ul li{
+    text-align: center;
+    list-style: none;
+    justify-content: space-between;
+}
+
+
+/* .line { */
+    /* width: 47%; Ancho deseado para la línea */
+/* } */
+  
+
+/* .input-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    padding: 5rem;
+
+}
+/* #add {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    padding: 5rem;
+}  */
